@@ -15,5 +15,4 @@
 <ul>
   <li>Deep thinker with a strong problem-solving mindset</li>
   <li>Naturally curious and enjoy fixing things</li>
-  <li>I love to sing</li>
 </ul>
